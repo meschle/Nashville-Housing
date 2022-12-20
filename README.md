@@ -1,2 +1,3 @@
-# Nashville-Housing
-SQL and Tableau Project on a Nashville Housing Database 
+# Nashville Housing Project
+
+In process! Check back later :)
